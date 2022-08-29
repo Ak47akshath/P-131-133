@@ -1,0 +1,29 @@
+.btn-primary{
+    font-size: 50px;
+    
+
+}
+
+.btn-default{
+    font-size: 20px;
+    background-color: cornflowerblue;
+    color: black;
+    width: 20%;
+}
+
+.btn-default:hover{
+   color: black;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+canvas{
+    border: 5px solid steelblue;
+    margin-top: 40px;
+}
+
+.btn-success{
+    width: 50%;
+}
